@@ -1,0 +1,4 @@
+playsound
+cmake
+face_recognition
+opencv-python
